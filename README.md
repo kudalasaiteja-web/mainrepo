@@ -1,2 +1,2 @@
 # mainrepo
-mainbranch
+newfile
